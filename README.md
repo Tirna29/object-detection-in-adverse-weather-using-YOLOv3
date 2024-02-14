@@ -12,3 +12,6 @@ Libraries used in this project:
 - Tqdm 4.65.0
 - opencv-python 4.1.1
 - Python 3.10
+
+# Reference
+@article{Liu_Ren_Yu_Guo_Zhu_Zhang_2022, title={Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions}, volume={36}, url={https://ojs.aaai.org/index.php/AAAI/article/view/20072}, DOI={10.1609/aaai.v36i2.20072}, number={2}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Liu, Wenyu and Ren, Gaofeng and Yu, Runsheng and Guo, Shi and Zhu, Jianke and Zhang, Lei}, year={2022}, month={Jun.}, pages={1792-1800} }
